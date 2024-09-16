@@ -2,6 +2,13 @@
 
 A simple To-Do List application built using **React.js**.
 
+## Features
+
+- **Add Tasks**: Easily add new tasks.
+- **Mark as Complete**: Strike through completed tasks.
+- **Delete Tasks**: Remove tasks that are no longer needed.
+- **Persistent Storage**: Your to-do list is stored locally in your browser.
+  
 **Live Demo:** [Click here to try the app](https://saurava69.github.io/todo-list-react/)
 
 ![ToDo List App Preview](todo-list-react.gif)
@@ -38,12 +45,3 @@ npm start
 ```
 The app should now be running on http://localhost:3000 in your browser.
 
-## Features
-
-- **Add Tasks**: Easily add new tasks.
-- **Mark as Complete**: Strike through completed tasks.
-- **Delete Tasks**: Remove tasks that are no longer needed.
-- **Persistent Storage**: Your to-do list is stored locally in your browser.
-
-This is the display of this app <br>
-![](todo-list-react.gif)
